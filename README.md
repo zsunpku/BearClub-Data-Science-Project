@@ -17,6 +17,7 @@ The six problems are listed as follows:
 >This is the Capstone project of workshop, aiming at finding the most important factors impact hotpot sales.
 
 ## Note
-The datasets used here are collected by [Bearclub](http://www.xiong99.com.cn/) and are thus not shared here due to copyright issues. (Sorry about that.)
+- All of the six problems are the tasks in the workshop and are highly time-limited. Thus the coding/methods/analyses can definitely be greatly improved. There is no limitation on using my code, but the use should be at your own discretion. Bug fixes through PR are highly welcomed.
+- The datasets used here are collected by [Bearclub](http://www.xiong99.com.cn/) and are thus not shared here due to copyright issues. (Sorry about that.)
 
 
